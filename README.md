@@ -1,2 +1,1 @@
 # jensfrankephotography
-gh-pages
